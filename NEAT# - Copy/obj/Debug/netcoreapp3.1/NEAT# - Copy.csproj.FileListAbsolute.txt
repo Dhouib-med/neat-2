@@ -1,0 +1,13 @@
+C:\Users\moham\Desktop\NEAT# - Copy\bin\Debug\netcoreapp3.1\NEAT# - Copy.exe
+C:\Users\moham\Desktop\NEAT# - Copy\bin\Debug\netcoreapp3.1\NEAT# - Copy.deps.json
+C:\Users\moham\Desktop\NEAT# - Copy\bin\Debug\netcoreapp3.1\NEAT# - Copy.runtimeconfig.json
+C:\Users\moham\Desktop\NEAT# - Copy\bin\Debug\netcoreapp3.1\NEAT# - Copy.runtimeconfig.dev.json
+C:\Users\moham\Desktop\NEAT# - Copy\bin\Debug\netcoreapp3.1\NEAT# - Copy.dll
+C:\Users\moham\Desktop\NEAT# - Copy\bin\Debug\netcoreapp3.1\NEAT# - Copy.pdb
+C:\Users\moham\Desktop\NEAT# - Copy\obj\Debug\netcoreapp3.1\NEAT# - Copy.csprojAssemblyReference.cache
+C:\Users\moham\Desktop\NEAT# - Copy\obj\Debug\netcoreapp3.1\NEAT# - Copy.AssemblyInfoInputs.cache
+C:\Users\moham\Desktop\NEAT# - Copy\obj\Debug\netcoreapp3.1\NEAT# - Copy.AssemblyInfo.cs
+C:\Users\moham\Desktop\NEAT# - Copy\obj\Debug\netcoreapp3.1\NEAT# - Copy.csproj.CoreCompileInputs.cache
+C:\Users\moham\Desktop\NEAT# - Copy\obj\Debug\netcoreapp3.1\NEAT# - Copy.dll
+C:\Users\moham\Desktop\NEAT# - Copy\obj\Debug\netcoreapp3.1\NEAT# - Copy.pdb
+C:\Users\moham\Desktop\NEAT# - Copy\obj\Debug\netcoreapp3.1\NEAT# - Copy.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\moham\Desktop\NEAT#\obj\Debug\netcoreapp3.1\NEAT#.csprojAssemblyReference.cache
+C:\Users\moham\Desktop\NEAT#\obj\Debug\netcoreapp3.1\NEAT#.AssemblyInfoInputs.cache
+C:\Users\moham\Desktop\NEAT#\obj\Debug\netcoreapp3.1\NEAT#.AssemblyInfo.cs
+C:\Users\moham\Desktop\NEAT#\obj\Debug\netcoreapp3.1\NEAT#.csproj.CoreCompileInputs.cache
+C:\Users\moham\Desktop\NEAT#\bin\Debug\netcoreapp3.1\NEAT#.exe
+C:\Users\moham\Desktop\NEAT#\bin\Debug\netcoreapp3.1\NEAT#.deps.json
+C:\Users\moham\Desktop\NEAT#\bin\Debug\netcoreapp3.1\NEAT#.runtimeconfig.json
+C:\Users\moham\Desktop\NEAT#\bin\Debug\netcoreapp3.1\NEAT#.runtimeconfig.dev.json
+C:\Users\moham\Desktop\NEAT#\bin\Debug\netcoreapp3.1\NEAT#.dll
+C:\Users\moham\Desktop\NEAT#\bin\Debug\netcoreapp3.1\NEAT#.pdb
+C:\Users\moham\Desktop\NEAT#\obj\Debug\netcoreapp3.1\NEAT#.dll
+C:\Users\moham\Desktop\NEAT#\obj\Debug\netcoreapp3.1\NEAT#.pdb
+C:\Users\moham\Desktop\NEAT#\obj\Debug\netcoreapp3.1\NEAT#.genruntimeconfig.cache
